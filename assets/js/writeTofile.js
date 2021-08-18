@@ -1,4 +1,4 @@
-const generateMarkdown = require('./generateMarkdown');
+const generateMarkdown = require("./generatorMarkdown");
 const fs = require('fs');
 
 function writeToFile(fileName, data) {

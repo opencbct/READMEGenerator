@@ -1,4 +1,4 @@
-const questionsFn = require('./assets/js/questionsFn');
+const questionsFn = require("./assets/js/questionFN")
 
 const questions = [
   {
